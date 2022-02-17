@@ -6,7 +6,6 @@ import (
 )
 
 func main() {
-	res := Array.TwoSum([]int{2, 7, 11, 15}, 9)
-	fmt.Println(1 + (4-1)>>1)
+	res := Array.MaxArea([]int{1, 8, 6, 2, 5, 4, 8, 3, 7})
 	fmt.Println(res)
 }
